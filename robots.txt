@@ -1,0 +1,4 @@
+Sitemap: https://lucasboulding.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: lucasboulding.github.io
